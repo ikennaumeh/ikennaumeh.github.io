@@ -3,13 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "26d74d4ed66ea3f68ea248cfde132bd7",
+  "assets/AssetManifest.json": "846fd75091f5c2ae1eeea02cf396747c",
 "assets/assets/images/bedpsace-owner.webp": "251a8c8672f2763e51710e4ef1e47a57",
 "assets/assets/images/bedspace.webp": "e380daa02f11a114ab5eef36df2a1118",
 "assets/assets/images/cloudfood-vendor.webp": "37a515d07908f28e3bd34f32df8750ca",
 "assets/assets/images/cloudfood.webp": "033e8263b0ddf5861b2401d76b51dc80",
+"assets/assets/images/code100.webp": "f30c695e70cb29673c4bedee6ab1eb09",
 "assets/assets/images/d4u-rider.webp": "6b6d9850a797652359cc150f303d6e44",
 "assets/assets/images/d4u.webp": "5da4b216e9665be22381ffe317392137",
+"assets/assets/images/devcare.webp": "ddb63d1c02bd44f9ae44ebd97d8b1408",
+"assets/assets/images/download.png": "37f58c8bcca7e285d1f881d4a7ad3d34",
 "assets/assets/images/esan.webp": "dc15ef8cb85398ff8c0a31023848f97f",
 "assets/assets/images/gtcn.webp": "b0326a94e7970ea9844d85ba70737c8d",
 "assets/assets/images/kingcard.webp": "fb2cb0c206de5390c637010465edc3a7",
@@ -36,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "617aac01623a06102cc797ad275a5708",
-"/": "617aac01623a06102cc797ad275a5708",
-"main.dart.js": "ce62d2491303583b4f2a03b94a84f81f",
+"index.html": "3b497234a9f34d50ec131641e4a96728",
+"/": "3b497234a9f34d50ec131641e4a96728",
+"main.dart.js": "79419a625993ef3938d8c179791fd7a3",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
