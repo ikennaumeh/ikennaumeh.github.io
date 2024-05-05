@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "025dd6c6e3ddc1f304885cb170962540",
-"assets/AssetManifest.json": "24cd6f86cb6a7877c4c65fb6807a32e1",
+const RESOURCES = {"assets/AssetManifest.bin": "e9f21cdee0fd34ebec583934afd6aff8",
+"assets/AssetManifest.json": "0c15e02c4ca827c6a3da853c6ad4293d",
 "assets/assets/images/bedpsace-owner.webp": "251a8c8672f2763e51710e4ef1e47a57",
 "assets/assets/images/bedspace.webp": "e380daa02f11a114ab5eef36df2a1118",
 "assets/assets/images/cloudfood-vendor.webp": "37a515d07908f28e3bd34f32df8750ca",
@@ -18,6 +18,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "025dd6c6e3ddc1f304885cb170962540
 "assets/assets/images/gtcn.webp": "b0326a94e7970ea9844d85ba70737c8d",
 "assets/assets/images/kingcard.webp": "fb2cb0c206de5390c637010465edc3a7",
 "assets/assets/images/one-bank.webp": "fc4f9f329eb8897129fddb4f959f1126",
+"assets/assets/images/onehuman.jpeg": "0a83003000283c5e91a37f7374d9e4ba",
+"assets/assets/images/onetoken.webp": "8e483f97cf2dfd6353cf4a034dfc81b3",
 "assets/assets/images/reown-reporter.webp": "c58eba314eea69b23e231984dd0191ad",
 "assets/assets/images/reown.webp": "be32e2bcb22ae6da020859d37f2d48fb",
 "assets/assets/images/shop4me.webp": "fa26abae559d1eb4f0772c53dfc24bae",
@@ -44,9 +46,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "025dd6c6e3ddc1f304885cb170962540
 "icons/icon-192.png": "4112762e4071c2d4ee92de29e36f4a6c",
 "icons/icon-512-maskable.png": "e9d3cffd903427956caa674d143ff489",
 "icons/icon-512.png": "9de1134cdb7fefa58af27d158a3fd83d",
-"index.html": "a3c45960efd454a744c0ab820758157f",
-"/": "a3c45960efd454a744c0ab820758157f",
-"main.dart.js": "dbc6a5abc39dd4fe855fa4c9e5928b36",
+"index.html": "8bcfbe2f49b87c20079f6b43d866c96d",
+"/": "8bcfbe2f49b87c20079f6b43d866c96d",
+"main.dart.js": "5ac4ff51549376d552b033f53f145cbe",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "version.json": "9b818ca9511483c901bed1545384376c"};
 // The application shell files that are downloaded before a service worker can
